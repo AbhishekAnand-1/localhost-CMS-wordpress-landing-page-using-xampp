@@ -7,7 +7,7 @@ localhost CMS/wordpress landing page using xampp
 
 
 
-Do you want to create a local WordPress / Other CMS site on your computer using XAMPP? Installing WordPress on your computer helps you try out test themes / plugins, and learn web development. In this article, we will show you how to create a local WordPress site Using XAMPP.
+Do you want to create a local WordPress / Other CMS site on your computer using XAMPP? Installing WordPress on your computer helps you try out test themes / plugins, and learn web development.
 
 
 
