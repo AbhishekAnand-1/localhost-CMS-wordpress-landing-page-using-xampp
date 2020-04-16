@@ -1,10 +1,7 @@
-# localhost-wordpress-landing-page-using-xampp
+# localhost-wordpress/Other-CMS-landing-page-using-xampp
 localhost wordpress landing page using xampp
 
 
-1. Download and install XAMPP at default location. 
-https://www.apachefriends.org/download.html
-XAMPP installation will create a folder called xampp in C drive (as default) and all xampp files will be installed there.
 
 2. Download wordpress. 
 https://wordpress.org/latest.zip
@@ -45,6 +42,8 @@ Let’s get started.
 Installing XAMPP on Your Computer
 
 First, visit the XAMPP website and click on the download button for your operating system.
+1. Download and install XAMPP at default location. 
+https://www.apachefriends.org/download.html
 
 ￼
 
