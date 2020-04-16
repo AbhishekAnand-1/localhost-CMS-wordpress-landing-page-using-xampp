@@ -1,5 +1,5 @@
 # localhost-wordpress/Other-CMS-landing-page-using-xampp
-localhost wordpress landing page using xampp
+localhost CMS/wordpress landing page using xampp
 
 
 
