@@ -3,11 +3,7 @@ localhost wordpress landing page using xampp
 
 
 
-2. Download wordpress. 
-https://wordpress.org/latest.zip
-
-3. Run XAMPP and start apache & MYSQL servers (make sure you haven't created a saprate database on your machine using MYSQL to avoid issues).
-4. Choose a website name. eg : "testpage".
+ 
 
 
 
@@ -27,6 +23,8 @@ Important: Local website will only be visible to you on your computer. If you w
 
 Having said that, let’s check out how to install CMS/WordPress(in our case) locally on Windows, Mac, or Linux using XAMPP.
 
+
+
 What is XAMPP?
 
 In order to create a local website, you will need to set up a web server software (Apache), PHP, and MySQL on your computer.
@@ -41,7 +39,7 @@ Let’s get started.
 
 Installing XAMPP on Your Computer
 
-First, visit the XAMPP website and click on the download button for your operating system.
+First, visit the website and click on the download button for your operating system.
 1. Download and install XAMPP at default location. 
 https://www.apachefriends.org/download.html
 
@@ -64,6 +62,7 @@ This will launch the XAMPP control panel. Go ahead and click on the start button
 ￼
 
 XAMPP will now start Apache and MySQL. You may see a Windows Firewall notification, it is important that you click on ‘Allow Access’ button for both applications to run on your computer.
+(make sure you haven't created a saprate database on your machine using MYSQL to avoid issues).
 
 ￼
 
@@ -75,7 +74,11 @@ Now you are ready to create a local website and install WordPress using XAMPP.
 
 Creating a Local WordPress Site with XAMPP
 
-You will need to download WordPress/any other CMS. Visit the WordPress.org website and click on the ‘Download WordPress’ button.
+Download wordpress. 
+https://wordpress.org/latest.zip
+
+
+You will need to download WordPress/any other CMS. Visit the WordPress.orgwebsite and click on the ‘Download WordPress’ button.
 
 ￼
 
@@ -89,9 +92,13 @@ On Windows it would be C:/Program Files/XAMPP/htdocs or C:\Xampp\htdocs fold
 
 On Mac, it will be /Applications/XAMPP/htdocs folder.
 
+
+4. Choose a website name. eg : "testpage".
+
+
 Create a folder with the same name you choose for your website inside htdocs folder.
 Paste the contents of the wordpress folder you have cut/copied earlier in the folder you have created as your website's name.
-This will be your directories.
+This will be your directorie.
 
 ￼
 
